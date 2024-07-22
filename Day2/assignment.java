@@ -78,10 +78,26 @@ public class assignment {
            
 
         //q7
+        /*int n =5;*/
+
+
+        /*int n=5;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=n;j++){
+                if(i==1 || i==n || j==1 || j==n){
+                    System.out.print("*");
+                }
+                else{
+                    System.out.print(" ");
+                    System.out.println();
+                }
+
+            }
+        }*/
 
 
         //q9
-        int n=5;
+        /*int n=5;
         for(int i=1;i<=n;i++){
             for(int j=(n-1);j>=i;j--){
                 System.out.print("  ");
@@ -94,24 +110,23 @@ public class assignment {
             }
             System.out.println();
 
-        }
+        }*/
 
 
         //q10
-        /*int n=5;
+        int n=5;
         for(int i=1;i<=n;i++){
             for(int j=i;j<=n;j++){
                 System.out.print("  ");
             }
-            for(int j= 1;j<n;j++){
+            for(int k= 1;k>=i;k--){
                 System.out.print("*");
             }
-            for(int k=1;k<=n;k--){
+            for(int l=3;l<=i;l--){
                 System.out.print("*");
             }System.out.println();
 
-        }*/
-
+        }
         //q11
         //int n=5;
         //for(int i=1; i<=n; i++)
