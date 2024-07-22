@@ -15,10 +15,11 @@ public class algorithms {
             }
 
         }
-    }    
+        
         if (flag==0){
         break;
     }
     
+}
 }
 }
